@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\docs",
+    "\\Onela",
+    "\\Onela\\Onela"
   ],
-  "SelectedNode": "\\C:\\Users\\py33hcd\\source\\repos\\Onela",
+  "SelectedNode": "\\Onela\\Onela\\Form2.cs",
   "PreviewInSolutionExplorer": false
 }
